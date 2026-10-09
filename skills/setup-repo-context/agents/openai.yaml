@@ -1,0 +1,4 @@
+interface:
+  display_name: "Set Up Repository Context"
+  short_description: "Create scoped AGENTS.md from repository evidence"
+  default_prompt: "Use $setup-repo-context to inspect this repository and propose the smallest useful set of scoped AGENTS.md changes."
